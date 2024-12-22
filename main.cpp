@@ -6,7 +6,9 @@ int main() {
 
 
 int a;
-itn b;
+int b;
+
+char z;
 
 return 0; 
 }
